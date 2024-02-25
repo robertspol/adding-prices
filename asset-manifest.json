@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adding-prices/static/css/main.49531b60.css",
+    "main.js": "/adding-prices/static/js/main.b5d2d3cf.js",
+    "static/js/453.82ea840f.chunk.js": "/adding-prices/static/js/453.82ea840f.chunk.js",
+    "index.html": "/adding-prices/index.html",
+    "main.49531b60.css.map": "/adding-prices/static/css/main.49531b60.css.map",
+    "main.b5d2d3cf.js.map": "/adding-prices/static/js/main.b5d2d3cf.js.map",
+    "453.82ea840f.chunk.js.map": "/adding-prices/static/js/453.82ea840f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49531b60.css",
+    "static/js/main.b5d2d3cf.js"
+  ]
+}
